@@ -1,5 +1,5 @@
-export enum InputSizeMode{
-    small,
-    medium,
-    big,
+export enum InputSizeMode {
+  small,
+  medium,
+  big,
 }
